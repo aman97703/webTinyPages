@@ -1,0 +1,26 @@
+body{
+background-color: orange;
+    font-family: 'Montserrat';
+padding: 3em;
+
+}
+#v0{
+position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+#set-height{
+display: block;
+    
+}
+section{
+z-index: 1;
+    position: relative;
+}
+.content{
+position: :sticky;
+    position: -webkit-sticky;
+    width: 100%;
+    top: 33.3%;
+}
